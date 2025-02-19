@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main1() {
-	// Êä³ö¡°Hello World¡±
+	// è¾“å‡ºâ€œHello Worldâ€
 	cout << "Hello World" << endl;
 	system("pause");
 	return 0;

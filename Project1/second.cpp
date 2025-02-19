@@ -1,13 +1,13 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
-// ¶¨Òå³£Á¿
+// å®šä¹‰å¸¸é‡
 #define Day 7
 
 int main2() {
 	cout << "A week has " << Day << " days" << endl;
 
-	// ÓÃconstĞŞÊÎ±äÁ¿£¬Ê¹Æä³ÉÎª³£Á¿
+	// ç”¨constä¿®é¥°å˜é‡ï¼Œä½¿å…¶æˆä¸ºå¸¸é‡
 	const int month = 12;
     cout << "A year has " << month << " months" << endl;
 
