@@ -33,6 +33,30 @@
     <ClCompile Include="n6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
