@@ -60,6 +60,15 @@
     <ClCompile Include="n15.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

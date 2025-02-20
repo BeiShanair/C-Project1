@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-int main(){
+int main15(){
 	// 选择结构
 	int a = 0;
 	cout << "input a sorce:" << endl;
