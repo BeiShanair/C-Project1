@@ -153,6 +153,10 @@
     <ClCompile Include="n31.cpp" />
     <ClCompile Include="n32.cpp" />
     <ClCompile Include="n33.cpp" />
+    <ClCompile Include="n34.cpp" />
+    <ClCompile Include="n35.cpp" />
+    <ClCompile Include="n36.cpp" />
+    <ClCompile Include="n37.cpp" />
     <ClCompile Include="n4.cpp" />
     <ClCompile Include="n5.cpp" />
     <ClCompile Include="n6.cpp" />
@@ -160,9 +164,13 @@
     <ClCompile Include="n8.cpp" />
     <ClCompile Include="n9.cpp" />
     <ClCompile Include="second.cpp" />
+    <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-int main() {
+int main33() {
 	// 冒泡排序
 	int a[10] = {4,2,5,1,0,7,9,8,3,6};
 	for(int i = 0; i < 10; i++) {
