@@ -129,6 +129,18 @@
     <ClCompile Include="swap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n38.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n39.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n40.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n41.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

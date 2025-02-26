@@ -7,7 +7,7 @@ using namespace std;
 // 2、创建.cpp的源文件
 // 3、头文件声明函数
 // 4、源文件函数定义
-int main(){
+int main37(){
 	int num1 = 5;
 	int num2 = 20;
 	cout << num1 << endl;
