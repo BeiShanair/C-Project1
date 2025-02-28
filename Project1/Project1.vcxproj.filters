@@ -141,6 +141,30 @@
     <ClCompile Include="n41.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n43.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n44.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n45.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n46.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n47.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n48.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n49.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

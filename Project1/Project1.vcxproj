@@ -162,6 +162,14 @@
     <ClCompile Include="n4.cpp" />
     <ClCompile Include="n40.cpp" />
     <ClCompile Include="n41.cpp" />
+    <ClCompile Include="n42.cpp" />
+    <ClCompile Include="n43.cpp" />
+    <ClCompile Include="n44.cpp" />
+    <ClCompile Include="n45.cpp" />
+    <ClCompile Include="n46.cpp" />
+    <ClCompile Include="n47.cpp" />
+    <ClCompile Include="n48.cpp" />
+    <ClCompile Include="n49.cpp" />
     <ClCompile Include="n5.cpp" />
     <ClCompile Include="n6.cpp" />
     <ClCompile Include="n7.cpp" />
