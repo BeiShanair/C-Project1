@@ -171,6 +171,11 @@
     <ClCompile Include="n48.cpp" />
     <ClCompile Include="n49.cpp" />
     <ClCompile Include="n5.cpp" />
+    <ClCompile Include="n50.cpp" />
+    <ClCompile Include="n51.cpp" />
+    <ClCompile Include="n52.cpp" />
+    <ClCompile Include="n53.cpp" />
+    <ClCompile Include="n54.cpp" />
     <ClCompile Include="n6.cpp" />
     <ClCompile Include="n7.cpp" />
     <ClCompile Include="n8.cpp" />

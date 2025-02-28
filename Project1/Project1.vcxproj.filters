@@ -165,6 +165,21 @@
     <ClCompile Include="n49.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="n50.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n51.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n52.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n53.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n54.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

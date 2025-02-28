@@ -22,7 +22,7 @@ vector<people> s(vector<people> p){
 	return p;
 }
 
-int main(){
+int main49(){
 	vector<people> arr = {
 		{"A",50,"worker"},
 		{"B",45,"teacher"},
